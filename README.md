@@ -1,4 +1,4 @@
-# Exploring Stable Diffusion Models: A Deep Dive into Generative Image Models
+# A Deep Dive into Stable Diffusion Models
 
 ![diffusion](image-5.png)
 ---
